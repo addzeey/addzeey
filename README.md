@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addzeey&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=addzeey&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=addzeey&theme=github_dark)
 
 <!--
 **addzeey/addzeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
