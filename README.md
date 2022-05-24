@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://ashdown.dev/imgs/avatar.svg" width="100"/>
+</div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addzeey&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=addzeey&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=addzeey&theme=github_dark)
