@@ -8,6 +8,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addzeey&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=addzeey&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=addzeey&theme=github_dark)
+<img src="https://github-profile-trophy.vercel.app/?username=addzeey&theme=juicyfresh&no-bg=true" />
   
 </div>
 <!--
